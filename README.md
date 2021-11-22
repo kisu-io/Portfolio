@@ -1,6 +1,6 @@
 # Kisu's Homepage
 
-[https://www.craftz.dog/](https://www.craftz.dog/)
+[https://kisu-website.netlify.app/](https://kisu-website.netlify.app/)
 
 ## Stack
 
